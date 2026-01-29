@@ -40,14 +40,12 @@ Early detection of Alzheimer’s disease allows for timely interventions and bet
 
 - Dissertation/ – Jupyter notebooks with data exploration, modelling, and evaluation
 
-- src/ – Scripts for preprocessing, model training, and evaluation
-
 - requirements.txt – Required Python packages for reproducing results.
 
 ## How to Use
 
 - Clone this repository:
-git clone https://github.com/YourUsername/AD-Predictive-Analytics.git
+[git clone](https://github.com/Jaywebmart/Predictive-Analytics-for-Neurological-Diseases.git)
 
 
 - Install dependencies:
