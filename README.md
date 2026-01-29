@@ -38,7 +38,7 @@ Early detection of Alzheimer’s disease allows for timely interventions and bet
 
 - data/ – Processed ADNI datasets (note: original data subject to ADNI access policies)
 
-- notebooks/ – Jupyter notebooks with data exploration, modelling, and evaluation
+- Dissertation/ – Jupyter notebooks with data exploration, modelling, and evaluation
 
 - src/ – Scripts for preprocessing, model training, and evaluation
 
